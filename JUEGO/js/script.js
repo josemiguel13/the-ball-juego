@@ -90,7 +90,7 @@ function Controles(){
 }
        
   // bola cañon
-  context.drawImage(balls[0].src, (dimensiones.w/ 2) -25, (dimensiones.h) -250, 40, 40);
+  context.drawImage(balls[0].src, (dimensiones.w/ 2) -25, (dimensiones.h) -240, 40, 40);
     //var image = nom_div("source");
     //context.drawImage(image, 0,0,760,500);
     function nom_div(id)
